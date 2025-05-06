@@ -1,0 +1,16 @@
+[project]
+name = "gnss-utils"
+version = "0.1.0"
+description = "GNSS tools"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.5",
+    "parse>=1.20.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]

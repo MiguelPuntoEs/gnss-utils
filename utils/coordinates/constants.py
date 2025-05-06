@@ -1,0 +1,6 @@
+from typing import Final
+
+WGS84_SEMI_MAJOR_AXIS: Final[float] = 6378137.0
+WGS84_ECCENTRICITY_SQUARED: Final[float] = 0.006694379990197
+
+

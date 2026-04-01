@@ -3,6 +3,7 @@ name = "gnss-utils"
 version = "0.1.0"
 description = "GNSS tools"
 readme = "README.md"
+license = "MIT"
 requires-python = ">=3.11"
 dependencies = [
     "matplotlib>=3.10.1",
